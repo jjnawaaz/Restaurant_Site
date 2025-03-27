@@ -12,12 +12,18 @@ const Footer = () => {
         {/*  */}
         <ul className="flex gap-4 justify-center items-center">
           <li>
-            <a href="#" className="py-4 px-4 hover:text-primary">
+            <a
+              href="https://www.instagram.com/jj_nawaaz_?igsh=MnJxaWN6NzZ0b21t"
+              className="py-4 px-4 hover:text-primary"
+            >
               <FaInstagram className="text-[25px] text-pink-300 drop-shadow-sm cursor-pointer" />
             </a>
           </li>
           <li>
-            <a href="#" className="py-4 px-4 hover:text-primary">
+            <a
+              href="tel:+918555017248"
+              className="py-4 px-4 hover:text-primary"
+            >
               <IoCallOutline className="text-[25px] text-black dark:text-white drop-shadow-sm cursor-pointer" />
             </a>
           </li>

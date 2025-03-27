@@ -13,9 +13,3 @@
 .spin {
   animation: spin 40s linear infinite;
 }
-html,
-body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
